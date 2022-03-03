@@ -7,7 +7,7 @@ Bibtex:
   
 @InProceedings{yang2022ITPCQA,  
 author = {Qi Yang and Yipeng Liu and Siheng Chen and Yiling Xu and Jun Sun},  
-title = {PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation},  
+title = {No-Reference Point Cloud Quality Assessment via Domain Adaptation},  
 booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},  
 year = {2022}  
 }
